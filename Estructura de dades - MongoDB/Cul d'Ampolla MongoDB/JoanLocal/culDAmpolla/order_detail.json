@@ -1,0 +1,49 @@
+{ 
+    "_id" : ObjectId("602cf50b6fad0cbedd8c30c3"), 
+    "order_detail_id" : NumberInt(1), 
+    "order_id" : NumberInt(1), 
+    "glasses_id" : NumberInt(1), 
+    "quantity" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("602cf5796fad0cbedd8c30c4"), 
+    "order_detail_id" : NumberInt(2), 
+    "order_id" : NumberInt(1), 
+    "glasses_id" : NumberInt(2), 
+    "quantity" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602d2c548becc46a651110c4"), 
+    "order_id" : NumberInt(2), 
+    "glasses_id" : NumberInt(2), 
+    "quantity" : NumberInt(3), 
+    "order_detail_id" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602d41c88becc46a651110d2"), 
+    "order_detail_id" : NumberInt(4), 
+    "order_id" : NumberInt(3), 
+    "glasses_id" : NumberInt(1), 
+    "quantity" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("602d44098becc46a651110d3"), 
+    "order_detail_id" : NumberInt(5), 
+    "order_id" : NumberInt(3), 
+    "glasses_id" : NumberInt(2), 
+    "quantity" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602d44408becc46a651110d4"), 
+    "order_detail_id" : NumberInt(6), 
+    "order_id" : NumberInt(3), 
+    "glasses_id" : NumberInt(3), 
+    "quantity" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602d460b8becc46a651110d6"), 
+    "order_detail_id" : NumberInt(7), 
+    "order_id" : NumberInt(4), 
+    "glasses_id" : NumberInt(3), 
+    "quantity" : NumberInt(1)
+}

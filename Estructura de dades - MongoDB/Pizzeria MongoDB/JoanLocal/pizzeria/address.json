@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("602e2a0be02e114057ad74b7"), 
+    "address_id" : NumberInt(1), 
+    "locality_id" : NumberInt(1), 
+    "address_street" : "Carrer Puigneró", 
+    "address_number" : "124 / F", 
+    "address_zip" : "07528"
+}
+{ 
+    "_id" : ObjectId("602e2a954f20b92950c8f17a"), 
+    "address_id" : NumberInt(2), 
+    "locality_id" : NumberInt(2), 
+    "address_street" : "Carrer Falcò", 
+    "address_number" : "76 / A", 
+    "address_zip" : "06824"
+}
+{ 
+    "_id" : ObjectId("602e2ac14f20b92950c8f17b"), 
+    "address_id" : NumberInt(3), 
+    "locality_id" : NumberInt(3), 
+    "address_street" : "Carrer Pacadadía", 
+    "address_number" : "12 / C", 
+    "address_zip" : "08974"
+}
+{ 
+    "_id" : ObjectId("602e31954f20b92950c8f190"), 
+    "address_id" : NumberInt(4), 
+    "locality_id" : NumberInt(1), 
+    "address_street" : "Carrer Paracadía", 
+    "address_number" : "14 / C", 
+    "address_zip" : "08974"
+}
+{ 
+    "_id" : ObjectId("602e31c74f20b92950c8f191"), 
+    "address_id" : NumberInt(5), 
+    "locality_id" : NumberInt(2), 
+    "address_street" : "Carrer Fiblò", 
+    "address_number" : "33 / B", 
+    "address_zip" : "06824"
+}
+{ 
+    "_id" : ObjectId("602e31f94f20b92950c8f192"), 
+    "address_id" : NumberInt(6), 
+    "locality_id" : NumberInt(3), 
+    "address_street" : "Carrer Ferrando", 
+    "address_number" : "45 / G", 
+    "address_zip" : "08974"
+}
+{ 
+    "_id" : ObjectId("602e32234f20b92950c8f193"), 
+    "address_id" : NumberInt(7), 
+    "locality_id" : NumberInt(4), 
+    "address_street" : "Carrer Waikiki", 
+    "address_number" : "45 / G", 
+    "address_zip" : "07845"
+}

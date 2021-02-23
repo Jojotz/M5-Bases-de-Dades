@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("602e2c24e02e114057ad74b9"), 
+    "locality_id" : NumberInt(1), 
+    "province_id" : NumberInt(1), 
+    "locality_name" : "San Pedor"
+}
+{ 
+    "_id" : ObjectId("602e2cd54f20b92950c8f17e"), 
+    "locality_id" : NumberInt(2), 
+    "province_id" : NumberInt(2), 
+    "locality_name" : "Cadaqués"
+}
+{ 
+    "_id" : ObjectId("602e2cf94f20b92950c8f17f"), 
+    "locality_id" : NumberInt(3), 
+    "province_id" : NumberInt(3), 
+    "locality_name" : "Valdomà"
+}
+{ 
+    "_id" : ObjectId("602e2d0e4f20b92950c8f180"), 
+    "locality_id" : NumberInt(4), 
+    "province_id" : NumberInt(4), 
+    "locality_name" : "Altafulla"
+}

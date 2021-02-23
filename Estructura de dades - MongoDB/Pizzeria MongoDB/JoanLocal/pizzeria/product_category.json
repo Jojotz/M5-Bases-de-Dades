@@ -1,0 +1,22 @@
+{ 
+    "_id" : ObjectId("602e3bbae02e114057ad74c1"), 
+    "product_category_id" : NumberInt(1), 
+    "pizza_category_id" : [
+        "Mar", 
+        "Montanya", 
+        "Mar i Montanya", 
+        "Vegetals", 
+        "Dolça"
+    ], 
+    "product_category_name" : "Pizzes"
+}
+{ 
+    "_id" : ObjectId("602e3c35e02e114057ad74c2"), 
+    "product_category_id" : NumberInt(2), 
+    "product_category_name" : "Burgers"
+}
+{ 
+    "_id" : ObjectId("602e3c774f20b92950c8f1a0"), 
+    "product_category_id" : NumberInt(3), 
+    "product_category_name" : "Begudes"
+}

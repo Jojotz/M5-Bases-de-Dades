@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("602f9fb134771037a47449d4"), 
+    "like_option_id" : NumberInt(1), 
+    "like_option_desc" : "like"
+}
+{ 
+    "_id" : ObjectId("602f9fd68f2d84032c56af05"), 
+    "like_option_id" : NumberInt(2), 
+    "like_option_desc" : "dislike"
+}

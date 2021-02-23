@@ -1,0 +1,16 @@
+{ 
+    "_id" : ObjectId("602fb1da34771037a47449d5"), 
+    "like_video_id" : NumberInt(1), 
+    "user_id" : NumberInt(1), 
+    "video_id" : NumberInt(1), 
+    "like_option_id" : NumberInt(1), 
+    "like_video_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602fb23a8f2d84032c56af06"), 
+    "like_video_id" : NumberInt(2), 
+    "user_id" : NumberInt(1), 
+    "video_id" : NumberInt(2), 
+    "like_option_id" : NumberInt(2), 
+    "like_video_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}

@@ -1,0 +1,42 @@
+{ 
+    "_id" : ObjectId("602e2fa9e02e114057ad74bb"), 
+    "order_id" : NumberInt(1), 
+    "product_id" : NumberInt(1), 
+    "quantity" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602e2fda4f20b92950c8f183"), 
+    "order_id" : NumberInt(1), 
+    "product_id" : NumberInt(3), 
+    "quantity" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602e2feb4f20b92950c8f184"), 
+    "order_id" : NumberInt(2), 
+    "product_id" : NumberInt(2), 
+    "quantity" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("602e2ffb4f20b92950c8f185"), 
+    "order_id" : NumberInt(2), 
+    "product_id" : NumberInt(4), 
+    "quantity" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602e30044f20b92950c8f186"), 
+    "order_id" : NumberInt(2), 
+    "product_id" : NumberInt(5), 
+    "quantity" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("602e30134f20b92950c8f187"), 
+    "order_id" : NumberInt(3), 
+    "product_id" : NumberInt(1), 
+    "quantity" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("602e301e4f20b92950c8f188"), 
+    "order_id" : NumberInt(3), 
+    "product_id" : NumberInt(3), 
+    "quantity" : NumberInt(1)
+}

@@ -1,0 +1,90 @@
+{ 
+    "_id" : ObjectId("602e43fde02e114057ad74c4"), 
+    "comment_id" : NumberInt(1), 
+    "user_id" : NumberInt(1), 
+    "video_id" : NumberInt(1), 
+    "comment_text" : "el vent porta pluja", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(2), 
+    "comment_dislikes" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602e4cb44f20b92950c8f1a9"), 
+    "comment_id" : NumberInt(2), 
+    "user_id" : NumberInt(2), 
+    "video_id" : NumberInt(1), 
+    "comment_text" : "el vent porta neu", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(4), 
+    "comment_dislikes" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602e4ccd4f20b92950c8f1aa"), 
+    "comment_id" : NumberInt(3), 
+    "user_id" : NumberInt(2), 
+    "video_id" : NumberInt(2), 
+    "comment_text" : "el vent porta aigua", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(4), 
+    "comment_dislikes" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602e4ce94f20b92950c8f1ab"), 
+    "comment_id" : NumberInt(4), 
+    "user_id" : NumberInt(3), 
+    "video_id" : NumberInt(1), 
+    "comment_text" : "el vent porta caca", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(2), 
+    "comment_dislikes" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602e4da34f20b92950c8f1ac"), 
+    "comment_id" : NumberInt(5), 
+    "user_id" : NumberInt(4), 
+    "video_id" : NumberInt(3), 
+    "comment_text" : "les estrelles brillen", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(3), 
+    "comment_dislikes" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602e4dc04f20b92950c8f1ad"), 
+    "comment_id" : NumberInt(6), 
+    "user_id" : NumberInt(5), 
+    "video_id" : NumberInt(4), 
+    "comment_text" : "les estrelles canten", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(3), 
+    "comment_dislikes" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602e4e2c4f20b92950c8f1ae"), 
+    "comment_id" : NumberInt(7), 
+    "user_id" : NumberInt(5), 
+    "video_id" : NumberInt(2), 
+    "comment_text" : "les estrelles xaporregen", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(3), 
+    "comment_dislikes" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602e4e724f20b92950c8f1af"), 
+    "comment_id" : NumberInt(8), 
+    "user_id" : NumberInt(1), 
+    "video_id" : NumberInt(2), 
+    "comment_text" : "aloh my friend", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(3), 
+    "comment_dislikes" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602e4e884f20b92950c8f1b0"), 
+    "comment_id" : NumberInt(9), 
+    "user_id" : NumberInt(3), 
+    "video_id" : NumberInt(5), 
+    "comment_text" : "mal, otra vez", 
+    "comment_date" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "comment_likes" : NumberInt(3), 
+    "comment_dislikes" : NumberInt(3)
+}

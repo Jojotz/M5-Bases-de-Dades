@@ -1,0 +1,39 @@
+{ 
+    "_id" : ObjectId("603372c09596a90fc5b4ceee"), 
+    "artist_id" : NumberInt(1), 
+    "artist_name" : "Tocotronic", 
+    "artist_image" : "Image", 
+    "music_style_list" : [
+        ObjectId("6033788a9596a90fc5b4cef0"), 
+        ObjectId("603378d2cff327054c02819f")
+    ]
+}
+{ 
+    "_id" : ObjectId("6033731dcff327054c028197"), 
+    "artist_id" : NumberInt(2), 
+    "artist_name" : "Red Cold Chilly Peppers", 
+    "music_style_list" : [
+        ObjectId("603378aecff327054c02819d"), 
+        ObjectId("603378c2cff327054c02819e")
+    ], 
+    "artist_image" : "Image"
+}
+{ 
+    "_id" : ObjectId("6033733dcff327054c028198"), 
+    "artist_id" : NumberInt(3), 
+    "artist_name" : "Alaska y los espermetazoides", 
+    "artist_image" : "Image", 
+    "music_style_list" : [
+        ObjectId("603378e6cff327054c0281a0")
+    ]
+}
+{ 
+    "_id" : ObjectId("60337397cff327054c028199"), 
+    "artist_id" : NumberInt(4), 
+    "artist_name" : "Dundler Miffin", 
+    "artist_image" : "Image", 
+    "music_style_list" : [
+        ObjectId("603378c2cff327054c02819e"), 
+        ObjectId("603378d2cff327054c02819f")
+    ]
+}

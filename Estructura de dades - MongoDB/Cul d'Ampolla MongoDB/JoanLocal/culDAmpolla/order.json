@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("602cf43b6fad0cbedd8c30c2"), 
+    "order_id" : NumberLong(1), 
+    "employee_id" : NumberInt(1), 
+    "customer_id" : NumberInt(1), 
+    "order_date" : ISODate("2021-02-18T23:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602d2bec8becc46a651110c3"), 
+    "order_id" : NumberInt(2), 
+    "employee_id" : NumberInt(1), 
+    "customer_id" : NumberInt(2), 
+    "order_date" : ISODate("2021-03-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602d41838becc46a651110d1"), 
+    "order_id" : NumberInt(3), 
+    "employee_id" : NumberInt(2), 
+    "customer_id" : NumberInt(3), 
+    "order_date" : ISODate("2021-02-19T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602d45ce8becc46a651110d5"), 
+    "order_id" : NumberInt(4), 
+    "employee_id" : NumberInt(1), 
+    "customer_id" : NumberInt(4), 
+    "order_date" : ISODate("2021-02-24T00:00:00.000+0000")
+}

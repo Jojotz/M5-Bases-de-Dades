@@ -1,0 +1,28 @@
+{ 
+    "_id" : ObjectId("603373ba9596a90fc5b4ceef"), 
+    "credit_card_id" : NumberInt(1), 
+    "credit_card_number" : "44455896362547", 
+    "credit_card_expiry" : ISODate("2026-01-01T00:00:00.000+0000"), 
+    "credit_card_security" : NumberInt(504)
+}
+{ 
+    "_id" : ObjectId("603374c2cff327054c02819a"), 
+    "credit_card_id" : NumberInt(2), 
+    "credit_card_number" : "44785896362547", 
+    "credit_card_expiry" : ISODate("2027-01-01T00:00:00.000+0000"), 
+    "credit_card_security" : NumberInt(548)
+}
+{ 
+    "_id" : ObjectId("6033753ecff327054c02819b"), 
+    "credit_card_id" : NumberInt(3), 
+    "credit_card_number" : "234785896362547", 
+    "credit_card_expiry" : ISODate("2024-01-01T00:00:00.000+0000"), 
+    "credit_card_security" : NumberInt(528)
+}
+{ 
+    "_id" : ObjectId("60337558cff327054c02819c"), 
+    "credit_card_id" : NumberInt(4), 
+    "credit_card_number" : "234587496362547", 
+    "credit_card_expiry" : ISODate("2024-01-01T00:00:00.000+0000"), 
+    "credit_card_security" : NumberInt(696)
+}

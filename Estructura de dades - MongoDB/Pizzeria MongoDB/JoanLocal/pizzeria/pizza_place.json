@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("602e30f3e02e114057ad74bd"), 
+    "pizza_place_id" : NumberInt(1), 
+    "address_id" : NumberInt(4), 
+    "place_name" : "La Guasona"
+}
+{ 
+    "_id" : ObjectId("602e31334f20b92950c8f18d"), 
+    "pizza_place_id" : NumberInt(2), 
+    "address_id" : NumberInt(5), 
+    "place_name" : "Hootters"
+}
+{ 
+    "_id" : ObjectId("602e31474f20b92950c8f18e"), 
+    "pizza_place_id" : NumberInt(3), 
+    "address_id" : NumberInt(6), 
+    "place_name" : "Barracuda"
+}
+{ 
+    "_id" : ObjectId("602e315a4f20b92950c8f18f"), 
+    "pizza_place_id" : NumberInt(4), 
+    "address_id" : NumberInt(7), 
+    "place_name" : "Vafanculo Italia"
+}

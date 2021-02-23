@@ -1,0 +1,33 @@
+{ 
+    "_id" : ObjectId("602ce65c6fad0cbedd8c30be"), 
+    "customer_id" : NumberInt(1), 
+    "customer_first" : "Joan", 
+    "customer_last" : "Coll", 
+    "customer_email" : "joancoll@gmail.com", 
+    "is_referee" : true, 
+    "customer_registration_date" : ISODate("2021-02-17T23:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602d2b428becc46a651110c2"), 
+    "customer_id" : NumberInt(2), 
+    "customer_first" : "Carles", 
+    "customer_last" : "Puig", 
+    "is_referee" : false, 
+    "customer_registration_date" : ISODate("2021-03-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602d3d3f8becc46a651110cc"), 
+    "customer_id" : NumberInt(3), 
+    "customer_first" : "Sarah", 
+    "customer_last" : "Connor", 
+    "is_referee" : true, 
+    "customer_registration_date" : ISODate("2021-03-02T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602d3eae8becc46a651110cd"), 
+    "customer_id" : NumberInt(4), 
+    "customer_first" : "Megan", 
+    "customer_last" : "O'Brilley", 
+    "is_referee" : false, 
+    "ciustomer_registration_date" : ISODate("2021-03-01T00:00:00.000+0000")
+}

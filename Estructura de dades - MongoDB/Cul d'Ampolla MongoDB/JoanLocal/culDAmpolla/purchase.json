@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("602d2ddf8becc46a651110c7"), 
+    "purchase_id" : NumberInt(1), 
+    "supplier_id" : NumberInt(1), 
+    "purchase_date" : ISODate("2021-02-18T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602d2f618becc46a651110c8"), 
+    "purchase_id" : NumberInt(2), 
+    "supplier_id" : NumberInt(2), 
+    "purchase_date" : ISODate("2021-03-01T00:00:00.000+0000")
+}

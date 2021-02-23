@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("60338e429596a90fc5b4cef6"), 
+    "payment_method_id" : NumberInt(1), 
+    "payment_method_type" : "Credit Card"
+}
+{ 
+    "_id" : ObjectId("60338e76cff327054c0281ab"), 
+    "payment_method_id" : NumberInt(2), 
+    "payment_method_type" : "Paypal"
+}

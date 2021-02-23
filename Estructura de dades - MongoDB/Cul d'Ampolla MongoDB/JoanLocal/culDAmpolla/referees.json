@@ -1,0 +1,17 @@
+{ 
+    "_id" : ObjectId("602d3cdc8becc46a651110cb"), 
+    "referee_id" : NumberInt(1), 
+    "customer_id" : NumberInt(1), 
+    "referred_customer_id" : [
+        "2", 
+        "3"
+    ]
+}
+{ 
+    "_id" : ObjectId("602d3f188becc46a651110ce"), 
+    "referee_id" : NumberInt(2), 
+    "customer_id" : NumberInt(3), 
+    "referred_customer_id" : [
+        "4"
+    ]
+}

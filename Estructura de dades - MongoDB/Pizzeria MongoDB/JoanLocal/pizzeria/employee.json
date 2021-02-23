@@ -1,0 +1,30 @@
+{ 
+    "_id" : ObjectId("602e2afee02e114057ad74b8"), 
+    "employee_id" : NumberInt(1), 
+    "pizza_place_id" : NumberInt(1), 
+    "employee_first_name" : "Yolanda", 
+    "employee_last_name" : "Barcos", 
+    "employee_nif" : "359855612C", 
+    "employee_phone" : "699874510", 
+    "employee_role" : "C"
+}
+{ 
+    "_id" : ObjectId("602e2bcf4f20b92950c8f17c"), 
+    "employee_id" : NumberInt(2), 
+    "pizza_place_id" : NumberInt(2), 
+    "employee_first_name" : "Marcos", 
+    "employee_last_name" : "Sandoval", 
+    "employee_nif" : "49965612C", 
+    "employee_phone" : "7884521693", 
+    "employee_role" : "D"
+}
+{ 
+    "_id" : ObjectId("602e2c044f20b92950c8f17d"), 
+    "employee_id" : NumberInt(3), 
+    "pizza_place_id" : NumberInt(3), 
+    "employee_first_name" : "Yago", 
+    "employee_last_name" : "Pescao", 
+    "employee_nif" : "569822365F", 
+    "employee_phone" : "623548721", 
+    "employee_role" : "D"
+}

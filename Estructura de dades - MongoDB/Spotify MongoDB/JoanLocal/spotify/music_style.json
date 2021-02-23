@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("6033788a9596a90fc5b4cef0"), 
+    "music_style_id" : NumberInt(1), 
+    "music_style_name" : "Rock"
+}
+{ 
+    "_id" : ObjectId("603378aecff327054c02819d"), 
+    "music_style_id" : NumberInt(2), 
+    "music_style_name" : "Pop"
+}
+{ 
+    "_id" : ObjectId("603378c2cff327054c02819e"), 
+    "music_style_id" : NumberInt(3), 
+    "music_style_name" : "Techno"
+}
+{ 
+    "_id" : ObjectId("603378d2cff327054c02819f"), 
+    "music_style_id" : NumberInt(4), 
+    "music_style_name" : "Drum and Bass"
+}
+{ 
+    "_id" : ObjectId("603378e6cff327054c0281a0"), 
+    "music_style_id" : NumberInt(5), 
+    "music_style_name" : "Classical"
+}

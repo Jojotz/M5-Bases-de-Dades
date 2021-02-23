@@ -1,0 +1,32 @@
+{ 
+    "_id" : ObjectId("6033700b9596a90fc5b4ceed"), 
+    "album_id" : NumberInt(1), 
+    "album_title" : "Lost in Translation", 
+    "artist_id" : NumberInt(1), 
+    "album_year" : ISODate("1999-01-01T00:00:00.000+0000"), 
+    "album_cover" : "Image"
+}
+{ 
+    "_id" : ObjectId("603371eacff327054c028194"), 
+    "album_id" : NumberInt(2), 
+    "album_title" : "Uber Utah Bank", 
+    "artist_id" : NumberInt(2), 
+    "album_year" : ISODate("2005-01-01T00:00:00.000+0000"), 
+    "album_cover" : "Image"
+}
+{ 
+    "_id" : ObjectId("6033721bcff327054c028195"), 
+    "album_id" : NumberInt(3), 
+    "album_title" : "The Son of the preacher, man", 
+    "artist_id" : NumberInt(3), 
+    "album_year" : ISODate("1978-01-01T00:00:00.000+0000"), 
+    "album_cover" : "Image"
+}
+{ 
+    "_id" : ObjectId("603372a4cff327054c028196"), 
+    "album_id" : NumberInt(4), 
+    "album_title" : "Sergeant Peppers", 
+    "artist_id" : NumberInt(4), 
+    "album_year" : ISODate("1969-01-01T00:00:00.000+0000"), 
+    "album_cover" : "Image"
+}

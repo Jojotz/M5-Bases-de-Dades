@@ -1,0 +1,55 @@
+{ 
+    "_id" : ObjectId("602e4ec8e02e114057ad74c5"), 
+    "user_id" : NumberInt(1), 
+    "user_name" : "Thelonius", 
+    "user_email" : "thelo@catchmail.cat", 
+    "user_pass" : "theloniusmonk", 
+    "user_dob" : "23/10/1989", 
+    "user_gender" : "M", 
+    "user_country" : "US", 
+    "user_zip" : "949949"
+}
+{ 
+    "_id" : ObjectId("602e504c4f20b92950c8f1b1"), 
+    "user_id" : NumberInt(2), 
+    "user_name" : "Macandcheese", 
+    "user_email" : "thellu@catchmail.cat", 
+    "user_pass" : "theloniusmonkey", 
+    "user_dob" : "23/04/1989", 
+    "user_gender" : "F", 
+    "user_country" : "US", 
+    "user_zip" : "949949"
+}
+{ 
+    "_id" : ObjectId("602e50704f20b92950c8f1b2"), 
+    "user_id" : NumberInt(3), 
+    "user_name" : "Marthas", 
+    "user_email" : "ttrashyu@catchmail.cat", 
+    "user_pass" : "dasboot", 
+    "user_dob" : "23/04/1993", 
+    "user_gender" : "F", 
+    "user_country" : "US", 
+    "user_zip" : "949949"
+}
+{ 
+    "_id" : ObjectId("602e50974f20b92950c8f1b3"), 
+    "user_id" : NumberInt(4), 
+    "user_name" : "John Coltrane", 
+    "user_email" : "rascayoo@catchmail.cat", 
+    "user_pass" : "jaxxipass1", 
+    "user_dob" : "25/04/1993", 
+    "user_gender" : "M", 
+    "user_country" : "US", 
+    "user_zip" : "949949"
+}
+{ 
+    "_id" : ObjectId("602e51314f20b92950c8f1b4"), 
+    "user_id" : NumberInt(5), 
+    "user_name" : "MarieCurie", 
+    "user_email" : "maricurie@catchmail.cat", 
+    "user_pass" : "jaxxipass1", 
+    "user_dob" : "25/04/1993", 
+    "user_gender" : "F", 
+    "user_country" : "FR", 
+    "user_zip" : "949949"
+}

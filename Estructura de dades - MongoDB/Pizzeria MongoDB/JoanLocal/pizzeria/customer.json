@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("602e2953e02e114057ad74b6"), 
+    "customer_id" : NumberInt(1), 
+    "address_id" : NumberInt(1), 
+    "first_name" : "Joan", 
+    "last_name" : "Coll", 
+    "customer_phone" : "656989754"
+}
+{ 
+    "_id" : ObjectId("602e29ce4f20b92950c8f178"), 
+    "customer_id" : NumberInt(2), 
+    "address_id" : NumberInt(2), 
+    "first_name" : "Marta", 
+    "last_name" : "Sanchez", 
+    "customer_phone" : "616789754"
+}
+{ 
+    "_id" : ObjectId("602e29f24f20b92950c8f179"), 
+    "customer_id" : NumberInt(3), 
+    "address_id" : NumberInt(3), 
+    "first_name" : "Jaume", 
+    "last_name" : "Valls", 
+    "customer_phone" : "625689752"
+}

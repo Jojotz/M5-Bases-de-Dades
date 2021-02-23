@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("602d2fb98becc46a651110c9"), 
+    "purchase_detail_id" : NumberInt(1), 
+    "purchase_id" : NumberInt(1), 
+    "glasses_id" : NumberInt(2), 
+    "quantity" : NumberInt(25)
+}
+{ 
+    "_id" : ObjectId("602d30378becc46a651110ca"), 
+    "purchase_detail_id" : NumberInt(2), 
+    "purchase_id" : NumberInt(1), 
+    "glasses_id" : NumberInt(1), 
+    "quantity" : NumberInt(30)
+}

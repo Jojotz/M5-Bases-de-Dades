@@ -1,0 +1,29 @@
+{ 
+    "_id" : ObjectId("602e2d3ae02e114057ad74ba"), 
+    "order_id" : NumberInt(1), 
+    "customer_id" : NumberInt(1), 
+    "pizza_place_id" : NumberInt(1), 
+    "employee_id" : NumberInt(1), 
+    "order_date" : ISODate("2021-02-23T21:00:00.000+0000"), 
+    "order_collection" : NumberInt(1), 
+    "delivery_time" : ISODate("2021-02-23T21:33:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e2e914f20b92950c8f181"), 
+    "order_id" : NumberInt(2), 
+    "customer_id" : NumberInt(2), 
+    "pizza_place_id" : NumberInt(2), 
+    "employee_id" : NumberInt(2), 
+    "order_date" : ISODate("2021-02-19T20:00:00.000+0000"), 
+    "order_collection" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("602e2ecc4f20b92950c8f182"), 
+    "order_id" : NumberInt(3), 
+    "customer_id" : NumberInt(3), 
+    "pizza_place_id" : NumberInt(3), 
+    "employee_id" : NumberInt(3), 
+    "order_date" : ISODate("2021-02-18T21:10:00.000+0000"), 
+    "order_collection" : NumberInt(1), 
+    "delivery_time" : ISODate("2021-02-18T21:44:00.000+0000")
+}

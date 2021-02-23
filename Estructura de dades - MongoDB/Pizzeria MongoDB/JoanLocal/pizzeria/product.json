@@ -1,0 +1,115 @@
+{ 
+    "_id" : ObjectId("602e32c7e02e114057ad74c0"), 
+    "product_id" : NumberInt(1), 
+    "product_category_id" : NumberInt(1), 
+    "product_name" : "Pizza bolets per la totxa", 
+    "product_desc" : "all, julivert, boletus, xampinyò, rovellò, llanega, i matò", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("15.79"), 
+    "pizza_category" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602e38914f20b92950c8f197"), 
+    "product_id" : NumberInt(2), 
+    "product_category_id" : NumberInt(1), 
+    "product_name" : "Pizza cachitos de amor", 
+    "product_desc" : "all, julivert, kambuchita, peperonccino, galta i rabo", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("18.79"), 
+    "pizza_category" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("602e38cc4f20b92950c8f198"), 
+    "product_id" : NumberInt(3), 
+    "product_category_id" : NumberInt(1), 
+    "product_name" : "Pizza sun is shining", 
+    "product_desc" : "all, julivert, aguacate, maracuyá, gin tonico", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("19.79"), 
+    "pizza_category" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("602e39044f20b92950c8f199"), 
+    "product_id" : NumberInt(4), 
+    "product_category_id" : NumberInt(1), 
+    "product_name" : "Pizza Avatar", 
+    "product_desc" : "all, julivert, gruyère, roquefort, blue ponie", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("14.79"), 
+    "pizza_category" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602e39b44f20b92950c8f19a"), 
+    "product_id" : NumberInt(5), 
+    "product_category_id" : NumberInt(1), 
+    "product_name" : "Pizza Sweet home Alabama", 
+    "product_desc" : "sucre lila, remolatxa, ayawasca,lsd", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("13.79"), 
+    "pizza_category" : NumberInt(4)
+}
+{ 
+    "_id" : ObjectId("602e3a1a4f20b92950c8f19b"), 
+    "product_id" : NumberInt(6), 
+    "product_category_id" : NumberInt(2), 
+    "product_name" : "Burger Krüger", 
+    "product_desc" : "carnaca, morcilla de Burgos, cecina de Avila, greix", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("22.79")
+}
+{ 
+    "_id" : ObjectId("602e3a8f4f20b92950c8f19c"), 
+    "product_id" : NumberInt(7), 
+    "product_category_id" : NumberInt(2), 
+    "product_name" : "Burger kitchen", 
+    "product_desc" : "pollastrell, pollença, polls, polo fresa", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("13.79")
+}
+{ 
+    "_id" : ObjectId("602e3b1b4f20b92950c8f19d"), 
+    "product_id" : NumberInt(8), 
+    "product_category_id" : NumberInt(2), 
+    "product_name" : "Burger Una de palillos", 
+    "product_desc" : "camarero, que, una de palillos, cuanta madera, güahira", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("21.79")
+}
+{ 
+    "_id" : ObjectId("602e3b724f20b92950c8f19e"), 
+    "product_id" : NumberInt(9), 
+    "product_category_id" : NumberInt(3), 
+    "product_name" : "Cambucha", 
+    "product_desc" : "refreshing trink", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("3.79")
+}
+{ 
+    "_id" : ObjectId("602e3b934f20b92950c8f19f"), 
+    "product_id" : NumberInt(10), 
+    "product_category_id" : NumberInt(3), 
+    "product_name" : "Sangria", 
+    "product_desc" : "caliente pero no fria", 
+    "product_image" : {
+        "1" : "image"
+    }, 
+    "product_price" : NumberDecimal("10.79")
+}

@@ -1,0 +1,109 @@
+{ 
+    "_id" : ObjectId("603393829596a90fc5b4cef7"), 
+    "user_id" : NumberInt(1), 
+    "user_type" : "P", 
+    "user_name" : "Johan Coll", 
+    "user_email" : "johannescoll@zackmail.com", 
+    "user_password" : "johannesisback", 
+    "user_dob" : ISODate("1981-02-21T23:00:00.000+0000"), 
+    "user_gender" : "M", 
+    "user_country" : "ES", 
+    "user_zip" : "05642", 
+    "favourite_albums" : [
+        ObjectId("6033700b9596a90fc5b4ceed"), 
+        ObjectId("603371eacff327054c028194")
+    ], 
+    "favourite_artists" : [
+        ObjectId("6033733dcff327054c028198"), 
+        ObjectId("603372c09596a90fc5b4ceee")
+    ], 
+    "favourite_songs" : [
+        ObjectId("6033888a9596a90fc5b4cef4"), 
+        ObjectId("60338a3fcff327054c0281a7")
+    ], 
+    "playlists" : [
+        ObjectId("603386b79596a90fc5b4cef3"), 
+        ObjectId("603387b4cff327054c0281a5")
+    ]
+}
+{ 
+    "_id" : ObjectId("603394d0cff327054c0281ad"), 
+    "user_id" : NumberInt(2), 
+    "user_type" : "P", 
+    "user_name" : "Brenda Coll", 
+    "user_email" : "brendacoll@zackmail.com", 
+    "user_password" : "brendaisslack", 
+    "user_dob" : ISODate("1981-02-21T23:00:00.000+0000"), 
+    "user_gender" : "F", 
+    "user_country" : "ES", 
+    "user_zip" : "05642", 
+    "favourite_albums" : [
+        ObjectId("6033700b9596a90fc5b4ceed"), 
+        ObjectId("6033721bcff327054c028195")
+    ], 
+    "favourite_artists" : [
+        ObjectId("60337397cff327054c028199"), 
+        ObjectId("6033733dcff327054c028198")
+    ], 
+    "favourite_songs" : [
+        ObjectId("60338a3fcff327054c0281a7"), 
+        ObjectId("60338a85cff327054c0281a8")
+    ], 
+    "playlists" : [
+        ObjectId("6033885acff327054c0281a6"), 
+        ObjectId("603387b4cff327054c0281a5")
+    ]
+}
+{ 
+    "_id" : ObjectId("603394f7cff327054c0281ae"), 
+    "user_id" : NumberInt(3), 
+    "user_type" : "P", 
+    "user_name" : "Carles Canvia", 
+    "user_email" : "garglass@zackmail.com", 
+    "user_password" : "repara", 
+    "user_dob" : ISODate("1981-02-21T23:00:00.000+0000"), 
+    "user_gender" : "M", 
+    "user_country" : "ES", 
+    "user_zip" : "07805", 
+    "favourite_albums" : [
+        ObjectId("6033721bcff327054c028195"), 
+        ObjectId("603372a4cff327054c028196")
+    ], 
+    "favourite_artists" : [
+        ObjectId("603372c09596a90fc5b4ceee"), 
+        ObjectId("6033731dcff327054c028197")
+    ], 
+    "favourite_songs" : [
+        ObjectId("60338a85cff327054c0281a8")
+    ], 
+    "playlists" : [
+        ObjectId("6033885acff327054c0281a6")
+    ]
+}
+{ 
+    "_id" : ObjectId("60339548cff327054c0281af"), 
+    "user_id" : NumberInt(4), 
+    "user_type" : "F", 
+    "user_name" : "Monica Santamaria", 
+    "user_email" : "xetter@zackmail.com", 
+    "user_password" : "repara45", 
+    "user_dob" : ISODate("1999-02-21T23:00:00.000+0000"), 
+    "user_gender" : "F", 
+    "user_country" : "ES", 
+    "user_zip" : "07805", 
+    "favourite_albums" : [
+        ObjectId("603371eacff327054c028194"), 
+        ObjectId("603372a4cff327054c028196")
+    ], 
+    "favourite_artists" : [
+        ObjectId("603372c09596a90fc5b4ceee"), 
+        ObjectId("60337397cff327054c028199")
+    ], 
+    "favourite_songs" : [
+        ObjectId("60338a85cff327054c0281a8"), 
+        ObjectId("60338aa7cff327054c0281a9")
+    ], 
+    "playlists" : [
+        ObjectId("603386b79596a90fc5b4cef3")
+    ]
+}

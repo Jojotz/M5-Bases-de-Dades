@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("602cf1956fad0cbedd8c30c0"), 
+    "employee_id" : NumberInt(1), 
+    "employee_first" : "Teresa", 
+    "employee_last" : "Campos"
+}
+{ 
+    "_id" : ObjectId("602d2d748becc46a651110c6"), 
+    "employee_id" : NumberInt(2), 
+    "employee_first" : "Rebeca", 
+    "employee_last" : "Garcia"
+}

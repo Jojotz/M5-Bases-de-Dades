@@ -1,0 +1,42 @@
+{ 
+    "_id" : ObjectId("602cf2ac6fad0cbedd8c30c1"), 
+    "glasses_id" : NumberInt(1), 
+    "supplier_id" : NumberInt(1), 
+    "glasses_brand" : "Rayban", 
+    "glasses_prescription" : [
+        NumberDecimal("1.2"), 
+        NumberDecimal("2.3")
+    ], 
+    "glasses_frame" : "F", 
+    "glasses_frame_colour" : "blue", 
+    "glasses_lens_colour" : "white", 
+    "glasses_price" : 99.95
+}
+{ 
+    "_id" : ObjectId("602cf5c16fad0cbedd8c30c5"), 
+    "glasses_id" : NumberInt(2), 
+    "supplier_id" : NumberInt(2), 
+    "glasses_brand" : "Giorgio", 
+    "glasses_prescription" : [
+        NumberDecimal("0.7"), 
+        NumberDecimal("1.1")
+    ], 
+    "glasses_frame" : "P", 
+    "glasses_frame_colour" : "Yellow", 
+    "glasses_lens_colour" : "Grey", 
+    "glasses_price" : 125.85
+}
+{ 
+    "_id" : ObjectId("602d47294355ae0ce867d216"), 
+    "glasses_id" : NumberInt(3), 
+    "supplier_id" : NumberInt(2), 
+    "glasses_brand" : "Gandalf", 
+    "glasses_prescription" : [
+        NumberDecimal("1.7"), 
+        NumberDecimal("1.8")
+    ], 
+    "glasses_frame" : "M", 
+    "glasses_frame_colour" : "Red", 
+    "glasses_lens_colour" : "Yellow", 
+    "glasses_price" : 185.85
+}

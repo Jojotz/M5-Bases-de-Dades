@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("602e3274e02e114057ad74bf"), 
+    "province_id" : NumberInt(1), 
+    "province_name" : "Barcelona"
+}
+{ 
+    "_id" : ObjectId("602e329d4f20b92950c8f194"), 
+    "province_id" : NumberInt(2), 
+    "province_name" : "Girona"
+}
+{ 
+    "_id" : ObjectId("602e32a94f20b92950c8f195"), 
+    "province_id" : NumberInt(3), 
+    "province_name" : "Lleida"
+}
+{ 
+    "_id" : ObjectId("602e32b24f20b92950c8f196"), 
+    "province_id" : NumberInt(4), 
+    "province_name" : "Tarragona"
+}

@@ -1,0 +1,72 @@
+{ 
+    "_id" : ObjectId("602e42a3e02e114057ad74c3"), 
+    "channel_id" : NumberInt(1), 
+    "user_id" : NumberInt(1), 
+    "channel_name" : "Cuina", 
+    "channel_desc" : "Receptes varies", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e434c4f20b92950c8f1a1"), 
+    "channel_id" : NumberInt(2), 
+    "user_id" : NumberInt(1), 
+    "channel_name" : "Manga", 
+    "channel_desc" : "Manga", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e435f4f20b92950c8f1a2"), 
+    "channel_id" : NumberInt(3), 
+    "user_id" : NumberInt(2), 
+    "channel_name" : "Cotxes", 
+    "channel_desc" : "Cotxes", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e436f4f20b92950c8f1a3"), 
+    "channel_id" : NumberInt(4), 
+    "user_id" : NumberInt(2), 
+    "channel_name" : "Motos", 
+    "channel_desc" : "Motos", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e43874f20b92950c8f1a4"), 
+    "channel_id" : NumberInt(5), 
+    "user_id" : NumberInt(2), 
+    "channel_name" : "Bicis", 
+    "channel_desc" : "Bicis", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e43a24f20b92950c8f1a5"), 
+    "channel_id" : NumberInt(6), 
+    "user_id" : NumberInt(3), 
+    "channel_name" : "Roba", 
+    "channel_desc" : "Roba", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e43b34f20b92950c8f1a6"), 
+    "channel_id" : NumberInt(7), 
+    "user_id" : NumberInt(4), 
+    "channel_name" : "Musica", 
+    "channel_desc" : "Musica", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e43ca4f20b92950c8f1a7"), 
+    "channel_id" : NumberInt(8), 
+    "user_id" : NumberInt(5), 
+    "channel_name" : "Movies", 
+    "channel_desc" : "Movies", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("602e43dc4f20b92950c8f1a8"), 
+    "channel_id" : NumberInt(9), 
+    "user_id" : NumberInt(5), 
+    "channel_name" : "Magics", 
+    "channel_desc" : "Magics", 
+    "channel_date" : ISODate("2020-01-01T00:00:00.000+0000")
+}

@@ -1,0 +1,74 @@
+{ 
+    "_id" : ObjectId("602cef176fad0cbedd8c30bf"), 
+    "address_id" : NumberInt(1), 
+    "customer_id" : NumberInt(1), 
+    "address_street" : "Carrer Perú", 
+    "address_number" : NumberInt(142), 
+    "address_door" : "2/4", 
+    "address_city" : "Barcelona", 
+    "address_zip" : "08018", 
+    "address_country" : "ES", 
+    "address_phone" : "938717840"
+}
+{ 
+    "_id" : ObjectId("602cf7876fad0cbedd8c30c8"), 
+    "address_id" : NumberInt(2), 
+    "supplier_id" : NumberInt(1), 
+    "address_street" : "Carrer Perellada", 
+    "address_number" : "23", 
+    "address_door" : "F", 
+    "address_city" : "Hospitalet", 
+    "address_zip" : "09784", 
+    "address_country" : "ES", 
+    "address_phone" : "938845165", 
+    "address_fax" : "98793958415"
+}
+{ 
+    "_id" : ObjectId("602cf8366fad0cbedd8c30c9"), 
+    "address_id" : NumberInt(3), 
+    "supplier_id" : NumberInt(2), 
+    "address_street" : "Carrer Bolivia", 
+    "address_number" : "145", 
+    "address_door" : "23", 
+    "address_city" : "Esplugues", 
+    "address_zip" : "07845", 
+    "address_country" : "ES", 
+    "address_phone" : "978452122", 
+    "address_fax" : "9874515214"
+}
+{ 
+    "_id" : ObjectId("602d2cc18becc46a651110c5"), 
+    "address_id" : NumberInt(4), 
+    "address_street" : "St Regents street", 
+    "address_number" : "45", 
+    "address_door" : "E", 
+    "address_city" : "London", 
+    "address_zip" : "LG3 DD5", 
+    "address_country" : "UK", 
+    "address_phone" : "004470780841592", 
+    "customer_id" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("602d3fb18becc46a651110cf"), 
+    "address_id" : NumberInt(5), 
+    "customer_id" : NumberInt(3), 
+    "address_street" : "Leonard's Grove", 
+    "address_number" : "12", 
+    "address_door" : "C", 
+    "address_city" : "Perth", 
+    "address_zip" : "DD4 2QQ", 
+    "address_country" : "UK", 
+    "address_phone" : "0044778085961"
+}
+{ 
+    "_id" : ObjectId("602d40328becc46a651110d0"), 
+    "address_id" : NumberInt(6), 
+    "customer_id" : NumberInt(4), 
+    "address_street" : "Dunda's Street", 
+    "address_number" : "144", 
+    "address_door" : "B", 
+    "address_city" : "Dundee", 
+    "address_zip" : "JD4 5LM", 
+    "address_country" : "UK", 
+    "address_phone" : "0044798665243"
+}

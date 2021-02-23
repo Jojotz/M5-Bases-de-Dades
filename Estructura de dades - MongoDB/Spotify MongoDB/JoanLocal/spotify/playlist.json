@@ -1,0 +1,39 @@
+{ 
+    "_id" : ObjectId("603386b79596a90fc5b4cef3"), 
+    "playlist_id" : NumberInt(1), 
+    "playlist_title" : "Music to my ears", 
+    "playlist_number_songs" : NumberInt(22), 
+    "playlist_status" : "A", 
+    "playlist_creation" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "playlist_deletion" : null, 
+    "song_list" : [
+        ObjectId("60338a85cff327054c0281a8"), 
+        ObjectId("60338aa7cff327054c0281a9")
+    ]
+}
+{ 
+    "_id" : ObjectId("603387b4cff327054c0281a5"), 
+    "playlist_id" : NumberInt(2), 
+    "playlist_title" : "Music to my eyes", 
+    "playlist_number_songs" : NumberInt(27), 
+    "playlist_status" : "D", 
+    "playlist_creation" : ISODate("2019-01-01T00:00:00.000+0000"), 
+    "playlist_deletion" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "song_list" : [
+        ObjectId("6033888a9596a90fc5b4cef4"), 
+        ObjectId("60338a3fcff327054c0281a7")
+    ]
+}
+{ 
+    "_id" : ObjectId("6033885acff327054c0281a6"), 
+    "playlist_id" : NumberInt(3), 
+    "playlist_title" : "Relaxing cup of coffee in plaza mayor", 
+    "playlist_number_songs" : NumberInt(18), 
+    "playlist_status" : "A", 
+    "playlist_creation" : ISODate("2020-01-01T00:00:00.000+0000"), 
+    "playlist_deletion" : null, 
+    "song_list" : [
+        ObjectId("6033888a9596a90fc5b4cef4"), 
+        ObjectId("60338a85cff327054c0281a8")
+    ]
+}

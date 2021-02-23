@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("602cf6e36fad0cbedd8c30c6"), 
+    "supplier_id" : NumberInt(1), 
+    "supplier_name" : "UlleresLab", 
+    "supplier_nif" : "458755412M"
+}
+{ 
+    "_id" : ObjectId("602cf72d6fad0cbedd8c30c7"), 
+    "supplier_id" : NumberInt(2), 
+    "supplier_name" : "CodeLab", 
+    "supplier_nif" : "8754126895R"
+}

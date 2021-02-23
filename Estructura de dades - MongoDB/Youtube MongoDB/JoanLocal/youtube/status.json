@@ -1,0 +1,15 @@
+{ 
+    "_id" : ObjectId("602e5538e02e114057ad74c7"), 
+    "status_id" : NumberInt(1), 
+    "status_name" : "Public"
+}
+{ 
+    "_id" : ObjectId("602e555a4f20b92950c8f1b9"), 
+    "status_id" : NumberInt(2), 
+    "status_name" : "Hidden"
+}
+{ 
+    "_id" : ObjectId("602e556d4f20b92950c8f1ba"), 
+    "status_id" : NumberInt(3), 
+    "status_name" : "Private"
+}

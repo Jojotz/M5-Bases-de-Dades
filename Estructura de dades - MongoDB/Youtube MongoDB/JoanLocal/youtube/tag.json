@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("602f9bec34771037a47449d2"), 
+    "tag_id" : NumberInt(1), 
+    "tag_name" : "Bubbles"
+}
+{ 
+    "_id" : ObjectId("602f9c1c8f2d84032c56af00"), 
+    "tag_id" : NumberInt(2), 
+    "tag_name" : "Whenceslao"
+}
+{ 
+    "_id" : ObjectId("602f9c298f2d84032c56af01"), 
+    "tag_id" : NumberInt(3), 
+    "tag_name" : "baff"
+}
+{ 
+    "_id" : ObjectId("602f9c3f8f2d84032c56af02"), 
+    "tag_id" : NumberInt(4), 
+    "tag_name" : "Tretedf"
+}
+{ 
+    "_id" : ObjectId("60336d7bcff327054c028193"), 
+    "tag_id" : NumberInt(5), 
+    "tag_name" : "goforitson"
+}

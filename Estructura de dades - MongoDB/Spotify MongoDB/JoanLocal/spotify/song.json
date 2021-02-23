@@ -1,0 +1,32 @@
+{ 
+    "_id" : ObjectId("6033888a9596a90fc5b4cef4"), 
+    "song_id" : NumberInt(1), 
+    "album_id" : NumberInt(1), 
+    "song_title" : "Revenge of the flankers", 
+    "song_length" : NumberInt(250), 
+    "song_playbacks" : NumberLong(199)
+}
+{ 
+    "_id" : ObjectId("60338a3fcff327054c0281a7"), 
+    "song_id" : NumberInt(2), 
+    "album_id" : NumberInt(1), 
+    "song_title" : "Every day is cool", 
+    "song_length" : NumberInt(384), 
+    "song_playbacks" : NumberLong(254)
+}
+{ 
+    "_id" : ObjectId("60338a85cff327054c0281a8"), 
+    "song_id" : NumberInt(3), 
+    "album_id" : NumberInt(2), 
+    "song_title" : "Relaxing at camarillo", 
+    "song_length" : NumberInt(540), 
+    "song_playbacks" : NumberLong(1250)
+}
+{ 
+    "_id" : ObjectId("60338aa7cff327054c0281a9"), 
+    "song_id" : NumberInt(4), 
+    "album_id" : NumberInt(3), 
+    "song_title" : "Sandy Bell's", 
+    "song_length" : NumberInt(540), 
+    "song_playbacks" : NumberLong(89)
+}
